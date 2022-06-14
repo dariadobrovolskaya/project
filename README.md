@@ -31,8 +31,8 @@
 # Гистограмма значений zh-score
 |   |   |
 |---|---|
-| ![](./histograms/B_diazoefficiens (1).png) | ![](./histograms/B_elkanii (1).png)  |
-|  ![](./histograms/B_guangdongense (1).png) | ![](./histograms/B_guangxiense.png)  |
+| ![](./histograms/B_diazoefficiens.png) | ![](./histograms/B_elkanii.png)  |
+|  ![](./histograms/B_guangdongense.png) | ![](./histograms/B_guangxiense.png)  |
 | ![](./histograms/B_guangzhouense.png)  |   |
 
 **Расположение Z - ДНК, до локализации в промотерах**
