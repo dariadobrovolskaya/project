@@ -79,29 +79,17 @@ WP_016842925.1      TYLVNRIRGSIGHTPI
 </details>
 
 ## Визуализация расположения Z - ДНК для кластеров
-|   |
-|---|
-| ![](./img/Z_DNA_clust.0.jpg) |
-| ![](./img/Z_DNA_clust.1.jpg) | 
-| ![](./img/Z_DNA_clust.2.jpg)  |
-| ![](./img/Z_DNA_clust.3.jpg) |
-| ![](./img/Z_DNA_clust.4.jpg) | 
-| ![](./img/Z_DNA_clust.5.jpg)  |
+
+![image](https://user-images.githubusercontent.com/60808830/173670718-2e1f2641-4c55-4f55-8378-80d32b166dd4.png)
+
 
 # Предсказание G-квадруплексов
 
 ## G квадруплексы в промотерах
-![](./img/G/G_prom.jpg)
 
 ## Множественно белковое выравнивание
 Файлы до Clustal и после приведены в папке *G aligment*
 
  
 ## Визуализация расположения G для кластеров
-Нашлось только 3 кластера, которые приведены ниже
-|   |
-|---|
-| ![](./img/G/G_clust.0.jpg) |
-| ![](./img/G/G_clust.1.jpg) | 
-| ![](./img/G/G_clust.2.jpg) |  
-  
+
