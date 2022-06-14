@@ -31,9 +31,9 @@
 # Гистограмма значений zh-score
 |   |   |
 |---|---|
-| ![](./img/hist/GCA_017915135.1.khazarica.jpg) | ![](./img/hist/GCA_011397855.1.otitidis.jpg)  |
-|  ![](./img/hist/GCA_002355475.1.furukawai.jpg) | ![](./img/hist/GCA_001597285.1.alcaligenes.jpg)  |
-| ![](./img/hist/GCA_001586155.1.citronell.jpg)  |   |
+| ![](./histograms/B_diazoefficiens (1).png) | ![](./histograms/B_elkanii (1).png)  |
+|  ![](./histograms/B_guangdongense (1).png) | ![](./histograms/B_guangxiense.png)  |
+| ![](./histograms/B_guangzhouense.png)  |   |
 
 **Расположение Z - ДНК, до локализации в промотерах**
 ![](./img/Z_DNA.jpg)
