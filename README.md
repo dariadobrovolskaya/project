@@ -10,7 +10,7 @@
 *Bradyrhizobium guangdongense* 
 *Bradyrhizobium guangxiense* 
 *Bradyrhizobium guangzhouense* 
-# Сводная таблица
+# overview table
 
 | Species  |  Genes number | Genome coverage | Genome length |
 |---|--|--|---|
@@ -20,15 +20,12 @@
 | B_guangxiense  | 6876.00 | 88.01 | 7220948.00 |
 | B_guangzhouense | 6754.00 | 88.19 | 7158886.00 |
 
+# Number of Z-DNA regions and Z-DNA length
+
 | Species  |  B_diazoefficiens | B_elkanii | B_guangdongense |  B_guangxiense | B_guangzhouense |
 |---|--|--|---|--|---|
-| Number of Z-DNA regions| 	8910608 | 9548186 | 7456045 |  7220948 | 7158886 | 
+| Number of Z-DNA regions| 8910608 | 9548186 | 7456045 | 7220948 | 7158886 | 
 | Z-DNA length  | 13611812 | 14572058  | 11387723 | 11029431 | 10930491 |
-
-
-	B_diazoefficiens	B_elkanii	B_guangdongense	B_guangxiense	B_guangzhouense
-Number of Z-DNA regions (with overlaps)	8910608	9548186	7456045	7220948	7158886
-Z-DNA length	13611812	14572058	11387723	11029431	10930491
 
 
 # Гистограмма значений zh-score
