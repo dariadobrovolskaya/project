@@ -5,10 +5,14 @@
 [Ссылка на colab](https://colab.research.google.com/drive/1LF5wrfa9TW6ynDy_8dW5y0z_xeDYcvB6?usp=sharing)
 
 # Общая информация
-*Bradyrhizobium diazoefficiens*
-*Bradyrhizobium elkanii* 
-*Bradyrhizobium guangdongense* 
-*Bradyrhizobium guangxiense* 
+*Bradyrhizobium diazoefficiens*,
+
+*Bradyrhizobium elkanii* ,
+
+*Bradyrhizobium guangdongense* ,
+
+*Bradyrhizobium guangxiense* ,
+
 *Bradyrhizobium guangzhouense* 
 # overview table
 
